@@ -1,0 +1,6 @@
+C:\Users\MAZ\source\repos\mediator\DTO\bin\Debug\DTO.dll
+C:\Users\MAZ\source\repos\mediator\DTO\bin\Debug\DTO.pdb
+C:\Users\MAZ\source\repos\mediator\DTO\obj\Debug\DTO.csprojAssemblyReference.cache
+C:\Users\MAZ\source\repos\mediator\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+C:\Users\MAZ\source\repos\mediator\DTO\obj\Debug\DTO.dll
+C:\Users\MAZ\source\repos\mediator\DTO\obj\Debug\DTO.pdb

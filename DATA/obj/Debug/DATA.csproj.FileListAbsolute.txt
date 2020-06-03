@@ -1,0 +1,2 @@
+C:\Users\MAZ\source\repos\mediator\DATA\obj\Debug\DATA.csprojAssemblyReference.cache
+C:\Users\MAZ\source\repos\mediator\DATA\obj\Debug\DATA.csproj.CoreCompileInputs.cache

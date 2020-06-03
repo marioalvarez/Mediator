@@ -1,0 +1,5 @@
+C:\Users\MAZ\source\repos\mediator\DAO\bin\Debug\DAO.dll
+C:\Users\MAZ\source\repos\mediator\DAO\bin\Debug\DAO.pdb
+C:\Users\MAZ\source\repos\mediator\DAO\obj\Debug\DAO.csproj.CoreCompileInputs.cache
+C:\Users\MAZ\source\repos\mediator\DAO\obj\Debug\DAO.dll
+C:\Users\MAZ\source\repos\mediator\DAO\obj\Debug\DAO.pdb
